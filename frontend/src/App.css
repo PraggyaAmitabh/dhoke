@@ -1,0 +1,19 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 24px;
+  text-align: center;
+}
+
+.app h1 {
+  margin-bottom: 12px;
+  font-size: 48px;
+}
+
+.app p {
+  margin: 6px 0;
+  max-width: 600px;
+}
